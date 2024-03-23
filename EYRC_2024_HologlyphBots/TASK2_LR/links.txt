@@ -1,0 +1,4 @@
+1. Learn OpenCV with Python : https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+2. Learn how to use OpenCV with ROS : https://wiki.ros.org/cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython
+3. Aruco-marker detection in OpenCV : https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html
+

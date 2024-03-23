@@ -1,0 +1,2 @@
+1. Thread-based parellelsim : https://docs.python.org/3/library/threading.html
+2. Intro to threading in python : https://realpython.com/intro-to-python-threading/

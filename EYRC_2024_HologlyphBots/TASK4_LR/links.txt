@@ -1,0 +1,8 @@
+1. OpenCV : https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
+2. LearnOpenCV : https://learnopencv.com/understanding-lens-distortion/
+
+1. Micro-ROS official Documentation : https://micro.ros.org/
+2. ROS Book Series : https://link.springer.com/chapter/10.1007/978-3-031-09062-2_2
+
+1. Micro-ROS setup : https://micro.ros.org/docs/concepts/build_system/
+2. platform specific integration : https://micro.ros.org/docs/concepts/build_system/external_build_systems/
